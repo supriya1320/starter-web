@@ -6,3 +6,6 @@ thse is purpose seaction
 
 ## Deployment
 ## how to contribute
+
+### copyright
+ copyright 2022
